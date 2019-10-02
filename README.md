@@ -66,7 +66,7 @@ https://docs.google.com/presentation/d/12J5vekPoWoLlCF5s1WV65DCks_YPDOvzdgNgq5bk
 2. Major hurdles
   - Git collaboration and how to use (for the 1st few days)
   - Not enough time to implement further features
-  - Modal (thea to fill)
+  - Dynamic modal content on the same page
   - CSS-related issues 
   - hover over image to show buttons
   - fully functional dark theme
